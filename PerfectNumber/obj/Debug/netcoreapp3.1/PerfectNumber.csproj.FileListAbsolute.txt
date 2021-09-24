@@ -1,0 +1,14 @@
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\PerfectNumber\bin\Debug\netcoreapp3.1\PerfectNumber.exe
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\PerfectNumber\bin\Debug\netcoreapp3.1\PerfectNumber.deps.json
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\PerfectNumber\bin\Debug\netcoreapp3.1\PerfectNumber.runtimeconfig.json
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\PerfectNumber\bin\Debug\netcoreapp3.1\PerfectNumber.runtimeconfig.dev.json
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\PerfectNumber\bin\Debug\netcoreapp3.1\PerfectNumber.dll
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\PerfectNumber\bin\Debug\netcoreapp3.1\PerfectNumber.pdb
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.csproj.AssemblyReference.cache
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.AssemblyInfoInputs.cache
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.AssemblyInfo.cs
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.csproj.CoreCompileInputs.cache
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.dll
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.pdb
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.genruntimeconfig.cache
