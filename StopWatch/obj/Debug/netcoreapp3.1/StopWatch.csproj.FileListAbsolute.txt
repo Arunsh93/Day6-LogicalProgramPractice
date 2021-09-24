@@ -1,0 +1,14 @@
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.exe
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.deps.json
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.json
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.dev.json
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.dll
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.pdb
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csproj.AssemblyReference.cache
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfoInputs.cache
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfo.cs
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csproj.CoreCompileInputs.cache
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.dll
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.pdb
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.genruntimeconfig.cache
