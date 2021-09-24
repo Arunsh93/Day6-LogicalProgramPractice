@@ -1,0 +1,14 @@
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\ReverseNumber\bin\Debug\netcoreapp3.1\ReverseNumber.exe
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\ReverseNumber\bin\Debug\netcoreapp3.1\ReverseNumber.deps.json
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\ReverseNumber\bin\Debug\netcoreapp3.1\ReverseNumber.runtimeconfig.json
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\ReverseNumber\bin\Debug\netcoreapp3.1\ReverseNumber.runtimeconfig.dev.json
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\ReverseNumber\bin\Debug\netcoreapp3.1\ReverseNumber.dll
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\ReverseNumber\bin\Debug\netcoreapp3.1\ReverseNumber.pdb
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.csproj.AssemblyReference.cache
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.AssemblyInfoInputs.cache
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.AssemblyInfo.cs
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.csproj.CoreCompileInputs.cache
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.dll
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.pdb
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.genruntimeconfig.cache
