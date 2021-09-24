@@ -1,0 +1,14 @@
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\PrimeNumber\bin\Debug\netcoreapp3.1\PrimeNumber.exe
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\PrimeNumber\bin\Debug\netcoreapp3.1\PrimeNumber.deps.json
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\PrimeNumber\bin\Debug\netcoreapp3.1\PrimeNumber.runtimeconfig.json
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\PrimeNumber\bin\Debug\netcoreapp3.1\PrimeNumber.runtimeconfig.dev.json
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\PrimeNumber\bin\Debug\netcoreapp3.1\PrimeNumber.dll
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\PrimeNumber\bin\Debug\netcoreapp3.1\PrimeNumber.pdb
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.csproj.AssemblyReference.cache
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.AssemblyInfoInputs.cache
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.AssemblyInfo.cs
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.csproj.CoreCompileInputs.cache
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.dll
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.pdb
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.genruntimeconfig.cache
