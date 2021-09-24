@@ -1,0 +1,14 @@
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\CouponNumber\bin\Debug\netcoreapp3.1\CouponNumber.exe
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\CouponNumber\bin\Debug\netcoreapp3.1\CouponNumber.deps.json
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\CouponNumber\bin\Debug\netcoreapp3.1\CouponNumber.runtimeconfig.json
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\CouponNumber\bin\Debug\netcoreapp3.1\CouponNumber.runtimeconfig.dev.json
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\CouponNumber\bin\Debug\netcoreapp3.1\CouponNumber.dll
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\CouponNumber\bin\Debug\netcoreapp3.1\CouponNumber.pdb
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\CouponNumber\obj\Debug\netcoreapp3.1\CouponNumber.csproj.AssemblyReference.cache
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\CouponNumber\obj\Debug\netcoreapp3.1\CouponNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\CouponNumber\obj\Debug\netcoreapp3.1\CouponNumber.AssemblyInfoInputs.cache
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\CouponNumber\obj\Debug\netcoreapp3.1\CouponNumber.AssemblyInfo.cs
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\CouponNumber\obj\Debug\netcoreapp3.1\CouponNumber.csproj.CoreCompileInputs.cache
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\CouponNumber\obj\Debug\netcoreapp3.1\CouponNumber.dll
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\CouponNumber\obj\Debug\netcoreapp3.1\CouponNumber.pdb
+E:\ASP.NET\FellowshipPrograms\Day6-LogicalProgramPractice\CouponNumber\obj\Debug\netcoreapp3.1\CouponNumber.genruntimeconfig.cache
